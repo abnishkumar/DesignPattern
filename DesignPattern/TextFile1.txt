@@ -1,0 +1,1 @@
+﻿http://www.dotnetfunda.com/articles/show/889/design-pattern-implementation-using-csharp
